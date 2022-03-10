@@ -50,7 +50,7 @@ In order to contribute to this github repo, make sure you the following contents
 
 ## <a name="suggest"></a> Suggestions and Feedback :raised_hand:
 
-We would love to hear from you. Please send your suggestions and feedback to: [cohesity-api-sdks@cohesity.com](mailto:cohesity-api-sdks@cohesity.com)
+We would love to hear from you. Please send your suggestions and feedback to: [support@cohesity.com](mailto:support@cohesity.com)
 
 ## License :shield:
 
